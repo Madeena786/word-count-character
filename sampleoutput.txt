@@ -1,0 +1,8 @@
+Enter a paragraph: I am Madeena Beebi. I am completed Task 11 in python internship.!
+
+Text Statistics
+*********************
+Characters: 65
+Words: 12
+Sentences: 3
+Spaces: 11
